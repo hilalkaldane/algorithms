@@ -1,3 +1,4 @@
+package backtracking;
 public class NQueenProblem
 {
     public static int queens = 0;
